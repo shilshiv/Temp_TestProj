@@ -1,2 +1,3 @@
 welcome to git 
 git is easy
+checking git status by using fetch
